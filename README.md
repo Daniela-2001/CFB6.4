@@ -1,3 +1,10 @@
-Variáveis locais: não são acessadas por todas as classes e métodos.
+Formatando a saída no console
 
-Variáveis globais: podem ser acessadas por todas as classes e métodos. 
+WriteLine – quebra a linha no final
+Write – não quebra a linha 
+Onde tem /t insere uma tabulação
+\n  quebra linha
+\t  insere tabulação
+:c  formato monetário
+:p  formato de porcentagem
+
